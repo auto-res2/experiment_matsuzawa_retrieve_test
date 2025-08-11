@@ -6,5 +6,172 @@
     "latent diffusion",
     "neural diffusion",
     "denoising diffusion"
+  ],
+  "research_study_list": [
+    {
+      "title": "Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Learning Diffusion Priors from Observations by Expectation Maximization",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Zero-Shot Text-to-Image Generation",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Compositional Visual Generation with Energy Based Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "IS SYNTHETIC DATA FROM GENERATIVE MODELS READY FOR IMAGE RECOGNITION?",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Latent Diffusion for Language Generation",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Latent Diffusion for Neural Spiking Data",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Neural Diffusion Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Cones: Concept Neurons in Diffusion Models for Customized Generation",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "Listening to the noise: Blind Denoising with Gibbs Diffusion",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    },
+    {
+      "title": "DDM$^2$: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models",
+      "abstract": null,
+      "full_text": null,
+      "image_data": null,
+      "experimental_code": null,
+      "references": null,
+      "meta_data": null,
+      "llm_extracted_info": null,
+      "alternative_formats": null
+    }
   ]
 }
